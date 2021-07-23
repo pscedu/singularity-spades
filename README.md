@@ -5,12 +5,19 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-spades)
 
 
+## singularity-spades
+## Installing the container on Bridges 2
+Copy the
+
+* `SIF` file
+
+to `/opt/packages/spades/3.14.1`.
+
+Copy the file `modulefile.lua` to `/opt/modulefiles/spades` as `3.14.1.lua`.
 
 ## Building the image using the recipe
-
 ### To build the image locally
 Run the script `build.sh` to build image locally.
-
 ```
 bash ./build.sh
 ```
@@ -21,6 +28,7 @@ Run the script `rbuild.sh` to build image remotely.
 ```
 bash ./rbuild.sh
 ```
+
 ## To run tests
 To run the available tests, run the command
 
