@@ -2,7 +2,7 @@ Bootstrap: docker
 From: quay.io/biocontainers/spades:3.14.1--h2d02072_0
 
 %labels
-    AUTHOR icaoberg
+    Maintainer icaoberg
     EMAIL icaoberg@psc.edu
     SUPPORT help@psc.edu
     REPOSITORY http://github.com/pscedu/singularity-spades
