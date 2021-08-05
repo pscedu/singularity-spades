@@ -11,9 +11,9 @@ Copy the
 
 * `SIF` file
 
-to `/opt/packages/spades/3.14.1`.
+to `/opt/packages/spades/3.15.3`.
 
-Copy the file `modulefile.lua` to `/opt/modulefiles/spades` as `3.14.1.lua`.
+Copy the file `modulefile.lua` to `/opt/modulefiles/spades` as `3.15.3.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
