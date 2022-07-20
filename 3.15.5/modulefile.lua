@@ -27,10 +27,6 @@ Documentation
 -------------
 https://github.com/ablab/spades
 
-Repository
-----------
-https://github.com/ablab/spades
-
 Tools included in this module are
 
 * cds-mapping-stats
