@@ -2,7 +2,7 @@
 
 VERSION=3.15.5
 PACKAGE=SPAdes
-TOOL=spades-gmapper
+TOOL=spades_init.py
 DIRECTORY=$(dirname $0)
 
 PERSISTENT_FILE_STORAGE=/ocean

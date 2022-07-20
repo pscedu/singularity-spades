@@ -33,21 +33,33 @@ https://github.com/ablab/spades
 
 Tools included in this module are
 
-* spades.py
+* cds-mapping-stats
 * metaspades.py
-* plasmidspades.py
-* metaplasmidspades.py
-* rnaspades.py
-* truspades.py
-* spades-core
-* spades-gbuilder
+* spades-bwa
 * spades-gmapper
 * spades-kmercount
+* spaligner
+* cds-subgraphs
+* metaviralspades.py
+* spades-convert-bin-to-fasta
+* spades-gsimplifier
+* spades-read-filter
+* truspades.py
+* coronaspades.py
+* plasmidspades.py
+* spades-core
 * spades-hammer
-* spades-ionhammer
-* spades-bwa
+* spades-truseq-scfcorrection
+* mag-improve
+* rnaspades.py
 * spades-corrector-core
-* spades-truseq-scfcorrection 
+* spades-ionhammer
+* spades.py
+* metaplasmidspades.py
+* rnaviralspades.py
+* spades-gbuilder
+* spades-kmer-estimating
+* spades_init.py
 ]])
 
 local package = "SPAdes"
